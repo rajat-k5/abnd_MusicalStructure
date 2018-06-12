@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/dayicon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:src="@drawable/ic_day" />
+
+    <Switch
+        android:id="@+id/switchForActionBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/dayicon"
+        android:paddingRight="20dp"
+        android:paddingTop="16dp"
+        android:text="" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="52dp"
+        android:layout_marginStart="52dp"
+        android:layout_toEndOf="@+id/dayicon"
+        android:layout_toRightOf="@+id/dayicon"
+        android:paddingRight="8dp"
+        android:paddingTop="8dp"
+        android:src="@drawable/ic_night" />
+
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="song1">Faded</string>
+    <string name="song1_Artist">Alan Walker</string>
+    <string name="song1_Album">Faded</string>
+
+    <string name="song2">DJ Turn it Up</string>
+    <string name="song2_Artist">Yellow Claw</string>
+    <string name="song2_Album">Amsterdam Music</string>
+
+    <string name="song3">Ruleta</string>
+    <string name="song3_Artist">Inna</string>
+    <string name="song3_Album">Party Never Ends</string>
+
+    <string name="song4">Buzz</string>
+    <string name="song4_Artist">Aastha Gill feat. Baadshah</string>
+    <string name="song4_Album">Buzz</string>
+
+    <string name="song5">Let Me Love You</string>
+    <string name="song5_Artist">Justin Bieber</string>
+    <string name="song5_Album">Encore</string>
+
+    <string name="song6">Despacito</string>
+    <string name="song6_Artist">Luis Fonsi feat. Daddy Yankee</string>
+    <string name="song6_Album">Despacito</string>
+
+    <string name="song7">Aa To Sahi</string>
+    <string name="song7_Artist">Meet Bros feat. Neha Kakkar</string>
+    <string name="song7_Album">Judwaa 2</string>
+
+    <string name="song8">Coca Cola Tu</string>
+    <string name="song8_Artist">Tony Kakkar feat. Young Desi</string>
+    <string name="song8_Album">Coca Cola</string>
+
+    <string name="song9">Trip</string>
+    <string name="song9_Artist">Badal</string>
+    <string name="song9_Album">Trip</string>
+
+    <string name="song10">FRIENDS</string>
+    <string name="song10_Artist">Anne Marie feat. Marshmallo</string>
+    <string name="song10_Album">Speak Your Mind</string>
+
+    <string name="song11"></string>
+    <string name="song11_Artist"></string>
+    <string name="song11_Album"></string>
+
+    <!--Artist Names-->
+    <string name="artist1">Alan Walker</string>
+    <string name="artist2">Aastha Gill</string>
+    <string name="artist3">Anne Marie</string>
+    <string name="artist4">Badal</string>
+    <string name="artist5">Baadshah</string>
+    <string name="artist6">Daddy Yankee</string>
+    <string name="artist7">Inna</string>
+    <string name="artist8">Justin Bieber</string>
+    <string name="artist9">Luis Lonsi</string>
+    <string name="artist10">Marshmallo</string>
+    <string name="artist11">Meet Bros</string>
+    <string name="artist12">Neha Kakkar</string>
+    <string name="artist13">Tony Kakkar</string>
+    <string name="artist14">Yellow Claw</string>
+    <string name="artist15">Young Desi</string>
+</resources>
