@@ -15,4 +15,6 @@
 The App was built as a project for Udacity Android Basic NanoDegree.
 Hope you guys liked it.
 
+Credits for the NowPlaying XMl : https://github.com/ahmadnurhidayat/music-player/blob/master/LICENSE 
+
 
