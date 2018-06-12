@@ -13,6 +13,8 @@
 </div>
 
 The App was built as a project for Udacity Android Basic NanoDegree.
+Hope you guys liked it.
 
+credits fot the NowPlaying Xml code : https://github.com/ahmadnurhidayat/music-player
 
 
